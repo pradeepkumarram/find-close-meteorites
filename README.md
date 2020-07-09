@@ -10,4 +10,4 @@ First install pipenv
 'pip3 install pipenv'
 
 pipenv install requests
-pipenv run python find_meteor.py
+pipenv run python meteors/find_meteor.py
